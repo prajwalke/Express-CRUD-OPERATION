@@ -1,0 +1,3 @@
+
+
+alert('js lode d')
